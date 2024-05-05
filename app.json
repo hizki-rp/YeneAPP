@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "yene",
-    "slug": "yene",
+    "name": "vibe",
+    "slug": "vibe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "yene",
+    "scheme": "vibe",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -21,7 +21,8 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "package": "com.hibanim.vibe"
       }
     },
     "web": {
