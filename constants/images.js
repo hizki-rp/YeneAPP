@@ -8,4 +8,7 @@ import empty from "../assets/images/empty.png";
 import pexels1 from "../assets/images/pexels1.jpg";
 import pexels2 from "../assets/images/pexels2.jpg";
 
-export default { profile, thumbnail, cards, path, logo, logoSmall, empty, pexels1, pexels2 }
+import pexels3 from "../assets/images/pexels3.jpg";
+import pexels4 from "../assets/images/pexels4.jpg";
+
+export default { profile, thumbnail, cards, path, logo, logoSmall, empty, pexels1, pexels2, pexels3, pexels4 };
